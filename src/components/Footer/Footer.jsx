@@ -2,7 +2,11 @@ import styles from './Footer.module.css'
 
 const Footer = () => {
   return (
-    <div>Footer</div>
+    <footer>
+      Twitter 
+      LinkedIn 
+      Facebook
+    </footer>
   )
 }
 

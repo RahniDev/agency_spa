@@ -2,7 +2,7 @@ import styles from './Projects.module.css'
 
 const Projects = () => {
   return (
-    <div>Projects</div>
+    <section id="projects">Projects</section>
   )
 }
 
