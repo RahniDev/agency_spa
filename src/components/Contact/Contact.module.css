@@ -1,0 +1,20 @@
+.contact_form {
+    text-align: center;
+}
+
+.contact_form div input, .contact_form div textarea {
+    width: 40%;
+    background: none;
+    color: white;
+    outline: none;
+    border: none;
+    border-bottom: 1px solid white;
+}
+
+.contact_form button {
+    border: 1px solid white;
+    background: none;
+    color: white;
+    padding: 5px 15px;
+    margin-top: 10px;
+}
