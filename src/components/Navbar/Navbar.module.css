@@ -1,7 +1,8 @@
 .nav {
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     align-items: center;
+    margin-right: 100px;
 }
 
 .navlinks {
@@ -13,10 +14,13 @@
     color: #FFF;
 }
 
+.nav a img {
+    margin-bottom: -24px;
+}
 .nav a {
     color: #FFF;
 }
 
 .navlinks li a {
-    margin-left: 10rem;
+    margin-left: 6rem;
 }

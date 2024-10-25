@@ -1,7 +1,10 @@
-.heroSection {
-    text-align: center;
-}
-
 .bright_header_text {
     color: #FFEC01;
+}
+
+h1 {
+    text-align: center;
+    width: 80%;
+    margin: auto;
+    padding-top: 3rem;
 }
