@@ -2,3 +2,34 @@
     display: flex;
     flex-direction: row;
 }
+
+.services_cards div {
+    width: 30%;
+}
+
+.services_cards ul {
+    text-align: left;
+    padding-left: 130px;
+    
+}
+.services_cards p {
+    display: inline;
+}
+.services_cards p span {
+    font-size: 28px;
+}
+
+.services_cards div h3 {
+    font-size: 26px;
+}
+
+@media only screen and (max-width: 992px) {
+    .services_cards {
+        display: flex;
+        flex-direction: column;
+    }
+    
+    .services_cards div {
+        width: 80%;
+    } 
+} 

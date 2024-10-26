@@ -36,7 +36,7 @@ const Contact = () => {
       </div>
       <div>
         <textarea
-          placeholder="Message"
+          placeholder="Tell me about your project"
           name="message"
           required />
         <ValidationError
@@ -45,7 +45,6 @@ const Contact = () => {
           errors={state.errors}
         />
       </div>
-
       <button type="submit" disabled={state.submitting}>Send</button>
     </form>
   )

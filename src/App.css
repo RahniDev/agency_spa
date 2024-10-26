@@ -14,3 +14,7 @@ body {
 #services {
   text-align: center;
 }
+
+section {
+  padding-top: 100px;
+}

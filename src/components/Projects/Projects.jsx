@@ -2,7 +2,9 @@ import styles from './Projects.module.css'
 
 const Projects = () => {
   return (
-    <section id="projects">Projects</section>
+    <section id="projects">
+      <h2>Work Examples</h2>
+    </section>
   )
 }
 
